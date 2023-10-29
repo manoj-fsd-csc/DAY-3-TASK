@@ -1,0 +1,92 @@
+4.Question:-
+    Task 1:-
+
+    1=> var a;
+        var b;
+        var c;
+        var d;
+        console.log(a,b,c,d);    
+
+
+    2=> var myvar= 1;
+        console.log(myvar);
+    
+    3=> var firstname = "kalaiyarasan";
+        var lastname = "anandan";
+        var maritalstatus = "single";
+        var country = "india";
+        var age = 26;
+    
+    4=> var firstname = "kalaiyarasan",lastname = "anandan",maritalstatus = "single",country = "india",age = 26;
+
+    5=> var a = "I am 25 years old";
+        var b = "You are 30 years old";
+
+        console.log("I am 25 years old "+ Boolean(a));
+        console.log("you are 30 years old "+ Boolean(b));
+    
+    6=> *parseInt()
+        *Plus sign(+)
+
+    7=> Truth:-
+        *var is always redeclaration and reassigning.
+        *print syntax in js console.log();.
+        *let is always reassigning. but not redeclaration.
+        False:-
+        *const is always redeclaration and reassigning.
+        *variables declaration name in numbers.
+        *js created by thomson.
+
+    Task 2:-
+
+    1=> var a = 6;
+        console.log(a*a);
+    
+    2=> var a = 6;
+        var b = 4;
+        var t;
+
+        t=a;
+        a=b;
+        b=t;
+        console.log(a,b);
+    
+    3=> var a = 6;
+        var b = 4;
+        var c = 7;
+        console.log(a+b+c);
+
+    4=> var a = 21;
+        console.log("Fahrenheit is "+(a*(9/5)+32));
+
+    5=> var a = 2000;
+        console.log("Mile is "+ a/1609);
+
+    6=> var pounds = 22;
+        console.log((pounds/2.205)+" Kilogiram"); 
+
+    7=> var score = 202;
+        console.log("Average is "+(score/3));
+    
+    8=> var score = 352;
+        console.log("Average is "+(score/5));
+
+    9=> var power = Math.pow(2,3);
+        console.log(power);
+
+    10=> var p = 15000,i = 5, t = 2;
+        console.log("SI "+(p*i*t/100));
+
+    11=> var a = 5;
+        console.log("A is "+((1.7320/4)*(a*a)));
+
+    13=>var r = 6;
+        console.log("v "+((4/3)*3.1415*(r*r*r)));
+
+    14=> var b = 6, h=8;
+        console.log("V "+(b*h));
+
+    16=> var actualcost=200,soldcost=156;
+        console.log(actualcost-soldcost);
+
+    17=> console.log("*****"+"\n"+"*****"+"\n"+"*****"+"\n"+"*****"+"\n"+"*****");
